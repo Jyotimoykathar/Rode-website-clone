@@ -25,8 +25,8 @@ This is a clone of Rode website, a tailwind project given by Ineuron.
 
 ### Links
 
-- Code File URL: [github.com](https://github.com/Jyotimoykathar/Paytm_Clone)
-- Live Site URL: [netlify.app](https://paytm-clone-with-tailwindcss.netlify.app/)
+- Code File URL: [github.com](https://github.com/Jyotimoykathar/Rode-website-clone)
+- Live Site URL: [netlify.app](https://rode-website-clone-tailwindcss.netlify.app/)
 
 ## My process
 
